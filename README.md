@@ -54,3 +54,7 @@ A demo blogging application where user can post and can post comments as well, t
 ### Giving Data Query Into React App
 
 <img src="https://github.com/ItsRoy69/BlogApp-Microservices/blob/main/assets/Giving%20data%20Query%20%20Into%20React%20App.png" width="1000" />
+
+### Handling Events when Moderation is Off
+
+<img src="https://github.com/ItsRoy69              /BlogApp-Microservices/blob/main/assets/Handling%20Events%20when%20Moderation%20is%20Off.png" width="1000" />
