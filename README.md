@@ -58,3 +58,64 @@ A demo blogging application where user can post and can post comments as well, t
 ### Handling Events when Moderation is Off
 
 <img src="https://github.com/ItsRoy69/BlogApp-Microservices/blob/main/assets/Handling%20Events%20when%20Moderation%20is%20Off.png" width="1000" />
+
+### Managing comments using Docker for deployment
+
+<img src="https://github.com/ItsRoy69/BlogApp-Microservices/blob/main/assets/Docker.png" width="1000" />
+
+**Why Docker ?**
+
+<img src="https://github.com/ItsRoy69/BlogApp-Microservices/blob/main/assets/Why%20Docker.png" width="1000" />
+
+**What is Kubernetes ?**
+
+<img src="https://github.com/ItsRoy69/BlogApp-Microservices/blob/main/assets/Kubernetes.png" width="1000" />
+
+**What is Kubernetes Cluster ?**
+
+<img src="https://github.com/ItsRoy69/BlogApp-Microservices/blob/main/assets/Kubernetes%20Cluster.png" width="1000" />
+
+**Why Kubernetes ?**
+
+It is going to make communication very7 easy and straightforward. Its also going to make creating services like launching a new copies and scaling the number of copies of a service very easy. It is also going to make the deployment process very easy.
+
+<img src="https://github.com/ItsRoy69/BlogApp-Microservices/blob/main/assets/Why%20Kubernetes.png" width="1000" />
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Orchestrating Collections of Services with Kubernetes
+
+<br/>
+
+![](/assets/pic-04-01.png?raw=true)
+
+<br/>
+
+![](/assets/pic-04-02.png?raw=true)
+
+<br/>
+
+![](/assets/pic-04-03.png?raw=true)
+
+<br/>
+
+![](/assets/pic-04-04.png?raw=true)
+
+<br/>
+
+![](/assets/pic-04-05.png?raw=true)
+
+<br/>
+
+![](/assets/pic-04-06.png?raw=true)
+
+<br/>
+
+![](/assets/pic-04-07.png?raw=true)
+
+<br/>
+
+---
+
+<br/>
