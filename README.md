@@ -69,7 +69,7 @@ A demo blogging application where user can post and can post comments as well, t
 
 **What is Kubernetes ?**
 
-<img src="https://github.com/ItsRoy69/BlogApp-Microservices/blob/main/assets/Kubernetes.png" width="1000" />
+<img src="https://github.com/ItsRoy69/BlogApp-Microservices/blob/main/assets/Kubernetes.jpg" width="1000" />
 
 **What is Kubernetes Cluster ?**
 
